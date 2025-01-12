@@ -114,11 +114,11 @@ Copy code
 
 **project/**
 
-**├── keras_Model.h5**
-**├── labels.txt**
-**├── main.py**
-**├── requirements.txt**
-**└── README.md**
+ **├── keras_Model.h5**
+ **├── labels.txt**
+ **├── main.py**
+ **├── requirements.txt**
+ **└── README.md**
 
 **Troubleshooting**
 Webcam not detected:Ensure the camera is connected and accessible by the system.
