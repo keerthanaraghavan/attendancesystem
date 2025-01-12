@@ -110,7 +110,10 @@ To stop the program, press the ESC key.
 **Project Folder Structure**
 css
 Copy code
+
+
 **project/**
+
 **├── keras_Model.h5**
 **├── labels.txt**
 **├── main.py**
