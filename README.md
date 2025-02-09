@@ -87,7 +87,7 @@ Place the keras_Model.h5 and labels.txt files in the project directory.
 Open the project in PyCharm.
 Run the main Python file to start the system.
 **The webcam will activate, and the system will recognize faces.**
-![Screenshot (55)](https://github.com/user-attachments/assets/203331a0-fcbb-4182-9569-4e41b21b06ff)
+
 
 **5. Attendance Workflow**
 The system predicts the individual's identity from the webcam feed.
