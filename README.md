@@ -73,13 +73,10 @@ Wait while the model is trained. This process might take a few seconds to minute
 After training is complete, use the Preview section to test the model:
 Point your webcam at a person to see the predictions.
 Verify if the confidence score is accurate for each individual.
-![Screenshot (51)](https://github.com/user-attachments/assets/daa0972b-1fb9-4423-968a-5cce601604f6)
 
 
 Save the labels.txt file containing class labels.
 **downlad the model**
-![Screenshot (52)](https://github.com/user-attachments/assets/7e809c05-2145-4f00-885f-441ca40406f9)
-
 
 
 **4. Running the Project**
